@@ -44,7 +44,7 @@ document.getElementById('login-form').addEventListener('submit', function(e) {
 // ====== LOGIKA COUNTDOWN & HASIL ======
 function startCountdown(student) {
     showSection('countdown-section');
-    let counter = 3;
+    let counter = 5;
     const countEl = document.getElementById('countdown-number');
     countEl.innerText = counter;
 
@@ -74,7 +74,7 @@ function handleLogoClick() {
     logoClickCount++;
     clearTimeout(logoClickTimer);
     
-    if (logoClickCount === 3) {
+    if (logoClickCount === 5) {
         document.getElementById('admin-modal').style.display = 'flex';
         logoClickCount = 0; // Reset
     } else {
