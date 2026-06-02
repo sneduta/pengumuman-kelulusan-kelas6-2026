@@ -1,22 +1,22 @@
 // Data Siswa (Semua 17 Anak)
 let students = [
-    { nisn: "137769529", nama: "MUHAMMAD JIDAN MAULUDIN", dob: "2013-01-23", math: "56.67 (Baik)", bi: "73.33 (Memadai)" },
-    { nisn: "137560841", nama: "SANIA ILMIYATUR ROSYIDA", dob: "2013-10-04", math: "63.33 (Baik)", bi: "76.67 (Baik)" },
-    { nisn: "134147957", nama: "RANDY ADI SAPUTRA", dob: "2013-03-05", math: "50.00 (Memadai)", bi: "70.00 (Memadai)" },
-    { nisn: "133288071", nama: "AISYAH DIAN IRAWATI", dob: "2013-09-09", math: "53.33 (Memadai)", bi: "70.00 (Memadai)" },
-    { nisn: "138549000", nama: "DEWI MAHARANI", dob: "2013-09-15", math: "46.67 (Memadai)", bi: "86.67 (Baik)" },
-    { nisn: "132000791", nama: "VERIN ANDINIA PUTRI", dob: "2013-03-03", math: "53.33 (Memadai)", bi: "80.00 (Baik)" },
-    { nisn: "133053634", nama: "AHMAD RAMADAN FAWZUL ADZIM", dob: "2013-08-04", math: "63.33 (Baik)", bi: "80.00 (Baik)" },
-    { nisn: "131075546", nama: "RAIHAN FABIANDRA", dob: "2013-06-06", math: "36.67 (Memadai)", bi: "50.00 (Memadai)" },
-    { nisn: "131072293", nama: "REVINA DEWI NURAINI", dob: "2013-07-01", math: "70.00 (Baik)", bi: "80.00 (Baik)" },
-    { nisn: "146823724", nama: "VINO HERMAWAN", dob: "2014-01-30", math: "46.67 (Memadai)", bi: "80.00 (Baik)" },
-    { nisn: "138059032", nama: "MUHAMMAD FADIL REVANO", dob: "2013-04-25", math: "43.33 (Memadai)", bi: "83.33 (Baik)" },
+    { nisn: "0137769529", nama: "MUHAMMAD JIDAN MAULUDIN", dob: "2013-01-23", math: "56.67 (Baik)", bi: "73.33 (Memadai)" },
+    { nisn: "0137560841", nama: "SANIA ILMIYATUR ROSYIDA", dob: "2013-10-04", math: "63.33 (Baik)", bi: "76.67 (Baik)" },
+    { nisn: "0134147957", nama: "RANDY ADI SAPUTRA", dob: "2013-03-05", math: "50.00 (Memadai)", bi: "70.00 (Memadai)" },
+    { nisn: "0133288071", nama: "AISYAH DIAN IRAWATI", dob: "2013-09-09", math: "53.33 (Memadai)", bi: "70.00 (Memadai)" },
+    { nisn: "0138549000", nama: "DEWI MAHARANI", dob: "2013-09-15", math: "46.67 (Memadai)", bi: "86.67 (Baik)" },
+    { nisn: "0132000791", nama: "VERIN ANDINIA PUTRI", dob: "2013-03-03", math: "53.33 (Memadai)", bi: "80.00 (Baik)" },
+    { nisn: "0133053634", nama: "AHMAD RAMADAN FAWZUL ADZIM", dob: "2013-08-04", math: "63.33 (Baik)", bi: "80.00 (Baik)" },
+    { nisn: "0131075546", nama: "RAIHAN FABIANDRA", dob: "2013-06-06", math: "36.67 (Memadai)", bi: "50.00 (Memadai)" },
+    { nisn: "0131072293", nama: "REVINA DEWI NURAINI", dob: "2013-07-01", math: "70.00 (Baik)", bi: "80.00 (Baik)" },
+    { nisn: "0146823724", nama: "VINO HERMAWAN", dob: "2014-01-30", math: "46.67 (Memadai)", bi: "80.00 (Baik)" },
+    { nisn: "0138059032", nama: "MUHAMMAD FADIL REVANO", dob: "2013-04-25", math: "43.33 (Memadai)", bi: "83.33 (Baik)" },
     { nisn: "3138984701", nama: "SITI QURBAY", dob: "2013-03-29", math: "46.67 (Memadai)", bi: "70.00 (Memadai)" },
-    { nisn: "143643010", nama: "MUHAMMAD RIZAL", dob: "2014-02-03", math: "40.00 (Memadai)", bi: "66.67 (Memadai)" },
-    { nisn: "139118087", nama: "DIANDRA PUTRA RAMADHANI", dob: "2013-07-15", math: "60.00 (Baik)", bi: "80.00 (Baik)" },
+    { nisn: "0143643010", nama: "MUHAMMAD RIZAL", dob: "2014-02-03", math: "40.00 (Memadai)", bi: "66.67 (Memadai)" },
+    { nisn: "0139118087", nama: "DIANDRA PUTRA RAMADHANI", dob: "2013-07-15", math: "60.00 (Baik)", bi: "80.00 (Baik)" },
     { nisn: "3131264830", nama: "EZA ANUGERAH PRATAMA", dob: "2013-09-04", math: "53.33 (Memadai)", bi: "60.00 (Memadai)" },
-    { nisn: "133173094", nama: "SANDI ADI SAPUTRA", dob: "2013-09-04", math: "46.67 (Memadai)", bi: "76.67 (Baik)" },
-    { nisn: "141618058", nama: "AHMAD THORIQUL AFANDI", dob: "2014-02-17", math: "40.00 (Memadai)", bi: "50.00 (Memadai)" }
+    { nisn: "0133173094", nama: "SANDI ADI SAPUTRA", dob: "2013-09-04", math: "46.67 (Memadai)", bi: "76.67 (Baik)" },
+    { nisn: "0141618058", nama: "AHMAD THORIQUL AFANDI", dob: "2014-02-17", math: "40.00 (Memadai)", bi: "50.00 (Memadai)" }
 ];
 
 // Navigasi Section
